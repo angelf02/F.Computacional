@@ -1,4 +1,4 @@
-#!/urs/bin/env python
+#!/usr/bin/env python
 
 #Primero se define el integrando:
 def funcionpi(x):
